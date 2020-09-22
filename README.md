@@ -145,6 +145,10 @@ Demo Video：[https://www.youtube.com/watch?v=eZExENE50I0](https://www.youtube.c
 - 论文：[https://arxiv.org/abs/2004.03828](https://arxiv.org/abs/2004.03828)
 - 代码：[https://github.com/shepnerd/AttenNorm](https://github.com/shepnerd/AttenNorm)
 - 备注：注意力机制、类条件图像生成、图像修复
+### Bringing Old Photos Back to Life
+- 论文：[https://arxiv.org/abs/2004.09484](https://arxiv.org/abs/2004.09484)
+- 代码：[https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
+- 主页：[http://raywzy.com/Old_Photo/](http://raywzy.com/Old_Photo/)
 # 3.去雨
 ### Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images
 - 论文：[http://openaccess.thecvf.com/content_CVPR_2020/html/Zou_Deep_Adversarial_Decomposition_A_Unified_Framework_for_Separating_Superimposed_Images_CVPR_2020_paper.html](http://openaccess.thecvf.com/content_CVPR_2020/html/Zou_Deep_Adversarial_Decomposition_A_Unified_Framework_for_Separating_Superimposed_Images_CVPR_2020_paper.html)
