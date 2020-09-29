@@ -145,6 +145,9 @@ Demo Video：[https://www.youtube.com/watch?v=eZExENE50I0](https://www.youtube.c
 ### Dual Super-Resolution Learning for Semantic Segmentation
 - 论文：[http://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.html](http://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.html)
 - 代码：[https://github.com/wanglixilinx/DSRL](https://github.com/wanglixilinx/DSRL)
+## 其他超分
+### Explorable Super Resolution
+- 论文：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Bahat_Explorable_Super_Resolution_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bahat_Explorable_Super_Resolution_CVPR_2020_paper.pdf)
 
 <a name="2.图像去雨"></a>
 # 2.图像去雨（Image Deraining）
@@ -155,6 +158,10 @@ Demo Video：[https://www.youtube.com/watch?v=eZExENE50I0](https://www.youtube.c
 ### Multi-Scale Progressive Fusion Network for Single Image Deraining
 - 论文：[https://arxiv.org/abs/2003.10985](https://arxiv.org/abs/2003.10985)
 - 代码：[https://github.com/kuihua/MSPFN](https://github.com/kuihua/MSPFN)
+### Syn2Real Transfer Learning for Image Deraining Using Gaussian Processes
+- 论文：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Yasarla_Syn2Real_Transfer_Learning_for_Image_Deraining_Using_Gaussian_Processes_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yasarla_Syn2Real_Transfer_Learning_for_Image_Deraining_Using_Gaussian_Processes_CVPR_2020_paper.pdf)
+### Detail-recovery Image Deraining via Context Aggregation Networks
+- 论文：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Deng_Detail-recovery_Image_Deraining_via_Context_Aggregation_Networks_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Deng_Detail-recovery_Image_Deraining_via_Context_Aggregation_Networks_CVPR_2020_paper.pdf)
 
 <a name="3.图像去雾"></a>
 # 3.图像去雾（Image Dehazing）
@@ -213,7 +220,7 @@ Demo Video：[https://www.youtube.com/watch?v=eZExENE50I0](https://www.youtube.c
 
 <a name="9.图像修复"></a>
 # 9.图像修复（Inpainting）
-
+### Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting
 <a name="10.图像质量评价"></a>
 # 10.图像质量评价（Image Quality Assessment）
 
