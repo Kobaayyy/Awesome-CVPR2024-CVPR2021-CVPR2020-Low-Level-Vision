@@ -16,6 +16,7 @@ A Collection of Papers and Codes for CVPR2020 Low Level Vision or Image Reconstr
 - [8.图像去摩尔纹（Image Demoireing）](#8.图像去摩尔纹)
 - [9.图像修复（Inpainting）](#9.图像修复)
 - [10.图像质量评价（Image Quality Assessment）](#10.图像质量评价)
+- [11.其他](#11.其他)
 
 <a name="1.超分辨率"></a>
 # 1.超分辨率（Super-Resolution）
@@ -223,6 +224,12 @@ Demo Video：[https://www.youtube.com/watch?v=eZExENE50I0](https://www.youtube.c
 ### Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting
 <a name="10.图像质量评价"></a>
 # 10.图像质量评价（Image Quality Assessment）
+
+<a name="11.其他"></a>
+# 11.其他
+### Image Processing Using Multi-Code GAN Prior
+- 论文：[https://openaccess.thecvf.com/content_CVPR_2020/html/Gu_Image_Processing_Using_Multi-Code_GAN_Prior_CVPR_2020_paper.html](https://openaccess.thecvf.com/content_CVPR_2020/html/Gu_Image_Processing_Using_Multi-Code_GAN_Prior_CVPR_2020_paper.html)
+- 代码：[https://github.com/genforce/mganprior](https://github.com/genforce/mganprior)
 
 <font color=red size=5>待续更新~</font>
 <div class="output_wrapper" id="output_wrapper_id" style="font-size: 16px; color: rgb(62, 62, 62); line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif;"><h1 id="h" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.5em 0px; font-weight: bold; font-size: 1.6em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">参考</span></h1>
