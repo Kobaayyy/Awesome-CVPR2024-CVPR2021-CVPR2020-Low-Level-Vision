@@ -172,6 +172,11 @@ Demo Video：[https://www.youtube.com/watch?v=eZExENE50I0](https://www.youtube.c
 ### Multi-Scale Boosted Dehazing Network with Dense Feature Fusion
 - 论文：[https://arxiv.org/abs/2004.13388](https://arxiv.org/abs/2004.13388)
 - 代码：[https://github.com/BookerDeWitt/MSBDN-DFF](https://github.com/BookerDeWitt/MSBDN-DFF)
+### BidNet: Binocular Image Dehazing Without Explicit Disparity Estimation
+- 论文：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_BidNet_Binocular_Image_Dehazing_Without_Explicit_Disparity_Estimation_CVPR_2020_paper.pdf)
+### Distilling Image Dehazing With Heterogeneous Task Imitation
+- 论文：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Hong_Distilling_Image_Dehazing_With_Heterogeneous_Task_Imitation_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hong_Distilling_Image_Dehazing_With_Heterogeneous_Task_Imitation_CVPR_2020_paper.pdf)
+- 代码：[https://github.com/FadeoN/Distilling-Image-Dehazing-With-Heterogeneous-Task-Imitation](https://github.com/FadeoN/Distilling-Image-Dehazing-With-Heterogeneous-Task-Imitation)
 
 <a name="4.去模糊"></a>
 # 4.去模糊（Deblurring）
@@ -180,6 +185,18 @@ Demo Video：[https://www.youtube.com/watch?v=eZExENE50I0](https://www.youtube.c
 - 主页：[https://csbhr.github.io/projects/cdvd-tsp/index.html](https://csbhr.github.io/projects/cdvd-tsp/index.html)
 - 论文：[https://arxiv.org/abs/2004.02501](https://arxiv.org/abs/2004.02501)
 - 代码：[https://github.com/csbhr/CDVD-TSP](https://github.com/csbhr/CDVD-TSP)
+### Learning Event-Based Motion Deblurring
+- 论文：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Learning_Event-Based_Motion_Deblurring_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Learning_Event-Based_Motion_Deblurring_CVPR_2020_paper.pdf)
+### Variational-EM-Based Deep Learning for Noise-Blind Image Deblurring
+- 论文：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Nan_Variational-EM-Based_Deep_Learning_for_Noise-Blind_Image_Deblurring_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Nan_Variational-EM-Based_Deep_Learning_for_Noise-Blind_Image_Deblurring_CVPR_2020_paper.pdf)
+### Efficient Dynamic Scene Deblurring Using Spatially Variant Deconvolution Network With Optical Flow Guided Training
+- 论文：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Yuan_Efficient_Dynamic_Scene_Deblurring_Using_Spatially_Variant_Deconvolution_Network_With_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yuan_Efficient_Dynamic_Scene_Deblurring_Using_Spatially_Variant_Deconvolution_Network_With_CVPR_2020_paper.pdf)
+### Deblurring by Realistic Blurring
+- 论文：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Deblurring_by_Realistic_Blurring_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Deblurring_by_Realistic_Blurring_CVPR_2020_paper.pdf)
+### Spatially-Attentive Patch-Hierarchical Network for Adaptive Motion Deblurring
+- 论文：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Suin_Spatially-Attentive_Patch-Hierarchical_Network_for_Adaptive_Motion_Deblurring_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Suin_Spatially-Attentive_Patch-Hierarchical_Network_for_Adaptive_Motion_Deblurring_CVPR_2020_paper.pdf)
+### Deblurring Using Analysis-Synthesis Networks Pair
+- 论文：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Kaufman_Deblurring_Using_Analysis-Synthesis_Networks_Pair_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kaufman_Deblurring_Using_Analysis-Synthesis_Networks_Pair_CVPR_2020_paper.pdf)
 
 <a name="5.去噪"></a>
 # 5.去噪（Denoising）
