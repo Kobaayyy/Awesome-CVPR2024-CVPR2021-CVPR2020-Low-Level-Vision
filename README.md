@@ -257,6 +257,19 @@ A Collection of Papers and Codes for CVPR2020 Low Level Vision or Image Reconstr
 
 <a name="10.图像质量评价"></a>
 # 10.图像质量评价（Image Quality Assessment）
+### MetaIQA: Deep Meta-Learning for No-Reference Image Quality Assessment
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_MetaIQA_Deep_Meta-Learning_for_No-Reference_Image_Quality_Assessment_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_MetaIQA_Deep_Meta-Learning_for_No-Reference_Image_Quality_Assessment_CVPR_2020_paper.pdf)
+- Code：[https://github.com/zhuhancheng/MetaIQA](https://github.com/zhuhancheng/MetaIQA)
+### Uncertainty-Aware Score Distribution Learning for Action Quality Assessment
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Uncertainty-Aware_Score_Distribution_Learning_for_Action_Quality_Assessment_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tang_Uncertainty-Aware_Score_Distribution_Learning_for_Action_Quality_Assessment_CVPR_2020_paper.pdf)
+- Code：[https://github.com/nzl-thu/MUSDL](https://github.com/nzl-thu/MUSDL)
+### Perceptual Quality Assessment of Smartphone Photography
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_Perceptual_Quality_Assessment_of_Smartphone_Photography_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_Perceptual_Quality_Assessment_of_Smartphone_Photography_CVPR_2020_paper.pdf)
+- Code：[https://github.com/h4nwei/SPAQ](https://github.com/h4nwei/SPAQ)
+### Adaptive Fractional Dilated Convolution Network for Image Aesthetics Assessment
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Adaptive_Fractional_Dilated_Convolution_Network_for_Image_Aesthetics_Assessment_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Adaptive_Fractional_Dilated_Convolution_Network_for_Image_Aesthetics_Assessment_CVPR_2020_paper.pdf)
+### Deep Metric Learning via Adaptive Learnable Assessment
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Deep_Metric_Learning_via_Adaptive_Learnable_Assessment_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Deep_Metric_Learning_via_Adaptive_Learnable_Assessment_CVPR_2020_paper.pdf)
 
 <a name="11.其他"></a>
 # 11.其他多任务
