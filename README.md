@@ -24,92 +24,76 @@ A Collection of Papers and Codes for CVPR2020 Low Level Vision or Image Reconstr
 ### PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 - Paper：[https://arxiv.org/abs/2003.03808](https://arxiv.org/abs/2003.03808)
 - Code：[https://github.com/adamian98/pulse](https://github.com/adamian98/pulse)
-- 解析：[杜克大学提出 AI 算法，拯救渣画质马赛克秒变高清](https://mp.weixin.qq.com/s?__biz=MzU3NTQ2NDIyOQ==&mid=2247493978&idx=1&sn=48a3a6c775ae490b2d6f90bcc607b075&chksm=fd201f10ca5796062a968040ed7e6bfebe8085b183b4ea0e1117c38ce6ec66c6d728ca483fba&mpshare=1&scene=23&srcid=&sharer_sharetime=1592366037552&sharer_shareid=e2c873c63ba339b9a32a1bfa460a6ebf#rd)
-- 备注：自监督；GAN；放大像素64倍（暂时是最高倍数）；将生成HR图像对应的LR图像与原图（LR）对比，找到最接近的那张，并反推找到对应的HR图像
+- Analysis：[杜克大学提出 AI 算法，拯救渣画质马赛克秒变高清](https://mp.weixin.qq.com/s?__biz=MzU3NTQ2NDIyOQ==&mid=2247493978&idx=1&sn=48a3a6c775ae490b2d6f90bcc607b075&chksm=fd201f10ca5796062a968040ed7e6bfebe8085b183b4ea0e1117c38ce6ec66c6d728ca483fba&mpshare=1&scene=23&srcid=&sharer_sharetime=1592366037552&sharer_shareid=e2c873c63ba339b9a32a1bfa460a6ebf#rd)
 ### Closed-Loop Matters: Dual Regression Networks for Single Image Super-Resolution
 - Paper：[https://arxiv.org/abs/2003.07018](https://arxiv.org/abs/2003.07018)
 - Code：[https://github.com/guoyongcs/DRN](https://github.com/guoyongcs/DRN)
-- 解析：[CVPR2020丨DRN：用于单图像超分辨率的对偶回归网络](https://zhuanlan.zhihu.com/p/115498523)
-- 备注：DRN
+- Analysis：[CVPR2020丨DRN：用于单图像超分辨率的对偶回归网络](https://zhuanlan.zhihu.com/p/115498523)
 ### EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning
 - Paper：[http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_EventSR_From_Asynchronous_Events_to_Image_Reconstruction_Restoration_and_Super-Resolution_CVPR_2020_paper.pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_EventSR_From_Asynchronous_Events_to_Image_Reconstruction_Restoration_and_Super-Resolution_CVPR_2020_paper.pdf)
-- 视频 ：[https://www.youtube.com/watch?v=OShS_MwHecs](https://www.youtube.com/watch?v=OShS_MwHecs)
-- 数据集： [https://github.com/wl082013/ESIM_dataset](https://github.com/wl082013/ESIM_dataset)
-- 备注：图像重建、恢复、超分
+- Video ：[https://www.youtube.com/watch?v=OShS_MwHecs](https://www.youtube.com/watch?v=OShS_MwHecs)
+- Dataset： [https://github.com/wl082013/ESIM_dataset](https://github.com/wl082013/ESIM_dataset)
 ### Unpaired Image Super-Resolution Using Pseudo-Supervision
 - Paper：[https://arxiv.org/abs/2002.11397?context=eess](https://arxiv.org/abs/2002.11397?context=eess)
-- Code：
-- 解析：[#每日五分钟一读#Image Super-Resolution](https://zhuanlan.zhihu.com/p/147171955)
-- 备注：
+- Analysis：[#每日五分钟一读#Image Super-Resolution](https://zhuanlan.zhihu.com/p/147171955)
 ### Correction Filter for Single Image Super-Resolution: Robustifying Off-the-Shelf Deep Super-Resolvers
 - Paper：[https://arxiv.org/abs/1912.00157](https://arxiv.org/abs/1912.00157)
 - Code：[https://github.com/shadyabh/Correction-Filter](https://github.com/shadyabh/Correction-Filter)
-- 解析：[Correction Filter for Single Image Super-Resolution阅读笔记（CVPR2020）](https://blog.csdn.net/weixin_45828771/article/details/107601560)
+- Analysis：[Correction Filter for Single Image Super-Resolution阅读笔记（CVPR2020）](https://blog.csdn.net/weixin_45828771/article/details/107601560)
 ### Residual Feature Aggregation Network for Image Super-Resolution
 - Paper：[http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Residual_Feature_Aggregation_Network_for_Image_Super-Resolution_CVPR_2020_paper.pdf)
 - Code：[https://github.com/njulj/RFANet](https://github.com/njulj/RFANet)
-- 解析：[超越RCAN，图像超分又一峰：RFANet](https://mp.weixin.qq.com/s/laZ_LH8tQ4PQaQXIyr38Bg)
-- 备注：超越RCAN，图像超分又一峰：RFANet
+- Analysis：[超越RCAN，图像超分又一峰：RFANet](https://mp.weixin.qq.com/s/laZ_LH8tQ4PQaQXIyr38Bg)
 ### Deep Unfolding Network for Image Super-Resolution
 - Paper：[https://arxiv.org/abs/2003.10428](https://arxiv.org/abs/2003.10428)
 - Code：[https://github.com/cszn/USRNet](https://github.com/cszn/USRNet)
-- 解析：[CVPR2020：USRNet](https://mp.weixin.qq.com/s/0-Kjfi8RBuPb_KuB5-Khkg)
-- 备注：USRNet
+- Analysis：[CVPR2020：USRNet](https://mp.weixin.qq.com/s/0-Kjfi8RBuPb_KuB5-Khkg)
 ### Image Super-Resolution With Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining
 - Paper：[https://arxiv.org/abs/2006.01424](https://arxiv.org/abs/2006.01424)
 - Code：[https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention](https://github.com/SHI-Labs/Cross-Scale-Non-Local-Attention)
-- 解析：[CVPR2020|跨尺度非局部注意力模型改进图像超分辨率，Code开源](https://zhuanlan.zhihu.com/p/145514672)
+- Analysis：[CVPR2020|跨尺度非局部注意力模型改进图像超分辨率，Code开源](https://zhuanlan.zhihu.com/p/145514672)
 ### Learning Texture Transformer Network for Image Super-Resolution
 - Paper：[https://arxiv.org/abs/2006.04139](https://arxiv.org/abs/2006.04139)
 - Code：[https://github.com/FuzhiYang/TTSR](https://github.com/FuzhiYang/TTSR)
-- 解析：[CVPR 2020丨图像超清化+老照片修复技术，拯救你所有的模糊、破损照片](https://blog.csdn.net/moxibingdao/article/details/106726668)
-- 备注：注意力机制
+- Analysis：[CVPR 2020丨图像超清化+老照片修复技术，拯救你所有的模糊、破损照片](https://blog.csdn.net/moxibingdao/article/details/106726668)
 ### Robust Reference-Based Super-Resolution With Similarity-Aware Deformable Convolution
 - Paper：[http://openaccess.thecvf.com/content_CVPR_2020/html/Shim_Robust_Reference-Based_Super-Resolution_With_Similarity-Aware_Deformable_Convolution_CVPR_2020_paper.html](http://openaccess.thecvf.com/content_CVPR_2020/html/Shim_Robust_Reference-Based_Super-Resolution_With_Similarity-Aware_Deformable_Convolution_CVPR_2020_paper.html)
-- 解析：[8/19 (CVPR2020) Robust Reference-based Super-Resolution with Similarity-Aware Deformable Convolution](https://blog.csdn.net/qq_40723205/article/details/108103295)
+- Analysis：[8/19 (CVPR2020) Robust Reference-based Super-Resolution with Similarity-Aware Deformable Convolution](https://blog.csdn.net/qq_40723205/article/details/108103295)
 ### Structure-Preserving Super Resolution with Gradient Guidance
 - Paper：[https://arxiv.org/abs/2003.13063](https://arxiv.org/abs/2003.13063)
 - Code：[https://github.com/Maclory/Deep-Iterative-Collaboration](https://github.com/Maclory/Deep-Iterative-Collaboration)
-- 解析：[CVPR2020丨SPSR：基于梯度指导的结构保留超分辨率方法](https://zhuanlan.zhihu.com/p/121721537)
-- 备注：SPSR
+- Analysis：[CVPR2020丨SPSR：基于梯度指导的结构保留超分辨率方法](https://zhuanlan.zhihu.com/p/121721537)
 ### Unified Dynamic Convolutional Network for Super-Resolution With Variational Degradations
 - Paper：[https://arxiv.org/abs/2004.06965](https://arxiv.org/abs/2004.06965)
-- Code：
-- 解析：[UDVD：适用于可变降质类型的通用图像超分，附参考Code](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA%3D%3D&mid=2247494694&idx=1&sn=ed29071f700b129534beb649a04b3b97&scene=45#wechat_redirect)
-- 备注：UDVD
+- Analysis：[UDVD：适用于可变降质类型的通用图像超分，附参考Code](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA%3D%3D&mid=2247494694&idx=1&sn=ed29071f700b129534beb649a04b3b97&scene=45#wechat_redirect)
 ### Perceptual Extreme Super Resolution Network with Receptive Field Block
 - Paper：[https://arxiv.org/abs/2005.12597](https://arxiv.org/abs/2005.12597)
-- Code：
-- 解析：[NTIRE2020冠军方案RFB-ESRGAN：带感受野模块的超分网络](https://mp.weixin.qq.com/s/nj_C_LXFpWQZASc4ITJmmA)
-- 备注：NTIRE2020极限超分冠军方案RFB-ESRGAN；Workshops
+- Analysis：[NTIRE2020冠军方案RFB-ESRGAN：带感受野模块的超分网络](https://mp.weixin.qq.com/s/nj_C_LXFpWQZASc4ITJmmA)
+- Remarks：NTIRE2020极限超分冠军方案RFB-ESRGAN；Workshops
 ### Real-World Super-Resolution via Kernel Estimation and Noise Injection
 - Paper：[http://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Ji_Real-World_Super-Resolution_via_Kernel_Estimation_and_Noise_Injection_CVPRW_2020_paper.html](http://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Ji_Real-World_Super-Resolution_via_Kernel_Estimation_and_Noise_Injection_CVPRW_2020_paper.html)
 - Code：[https://github.com/jixiaozhong/RealSR](https://github.com/jixiaozhong/RealSR)
-- 解析：
-- 备注：NTIRE2020-RWSR超分双赛道冠军方案；Workshops
+- Remarks：NTIRE2020-RWSR超分双赛道冠军方案；Workshops
 ### Investigating Loss Functions for Extreme Super-Resolution
 - Paper：[http://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Jo_Investigating_Loss_Functions_for_Extreme_Super-Resolution_CVPRW_2020_paper.pdf](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Jo_Investigating_Loss_Functions_for_Extreme_Super-Resolution_CVPRW_2020_paper.pdf)
 - Code：[https://github.com/kingsj0405/ciplab-NTIRE-2020](https://github.com/kingsj0405/ciplab-NTIRE-2020)
-- 解析：
-- 备注：NTIRE2020极限超分亚军方案CIPLab；Workshops
+- Remarks：NTIRE2020极限超分亚军方案CIPLab；Workshops
 ### Nested Scale-Editing for Conditional Image Synthesis
 - Paper：[http://arxiv.org/abs/2006.02038](http://arxiv.org/abs/2006.02038)
-- 备注：解耦表征、多模图像转换、超分、修复
 ### MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks
 - Paper：[https://arxiv.org/abs/1903.06048v3](https://arxiv.org/abs/1903.06048v3)
 - Code：[https://github.com/akanimax/msg-stylegan-tf](https://github.com/akanimax/msg-stylegan-tf)
-- 解析：[CVPR2020之MSG-GAN：简单有效的SOTA](https://mp.weixin.qq.com/s?__biz=MzU5MTgzNzE0MA==&mid=2247484246&idx=1&sn=3af777e066a3d4b6dcf1c4cf4856a671&chksm=fe29a1edc95e28fb85299ccf87a1819755f80243ff17f0057c425f3c4077e7e3b4d4a2035329&scene=21#wechat_redirect)
-- 备注：NTIRE2020极限超分亚军方案CIPLab；Workshops
+- Analysis：[CVPR2020之MSG-GAN：简单有效的SOTA](https://mp.weixin.qq.com/s?__biz=MzU5MTgzNzE0MA==&mid=2247484246&idx=1&sn=3af777e066a3d4b6dcf1c4cf4856a671&chksm=fe29a1edc95e28fb85299ccf87a1819755f80243ff17f0057c425f3c4077e7e3b4d4a2035329&scene=21#wechat_redirect)
+- Remarks：NTIRE2020极限超分亚军方案CIPLab；Workshops
 ## 视频超分辨率
 ### TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution
 - Paper：[https://arxiv.org/abs/1812.02898](https://arxiv.org/abs/1812.02898)
 - Code：[https://github.com/YapengTian/TDAN-VSR-CVPR-2020](https://github.com/YapengTian/TDAN-VSR-CVPR-2020)
-Demo Video：[https://www.youtube.com/watch?v=eZExENE50I0](https://www.youtube.com/watch?v=eZExENE50I0)
-- 备注：首次将形变卷积用到视频超分领域；TDAN
+- Video：[https://www.youtube.com/watch?v=eZExENE50I0](https://www.youtube.com/watch?v=eZExENE50I0)
 ### Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution
 - Paper：[https://arxiv.org/abs/2002.11616](https://arxiv.org/abs/2002.11616)
 - Code：[https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020)
-- 解析：[慢镜头变焦：视频超分辨率：CVPR2020Paper解析](https://zhuanlan.zhihu.com/p/117341018)
+- Analysis：[慢镜头变焦：视频超分辨率：CVPR2020Paper解析](https://zhuanlan.zhihu.com/p/117341018)
 ### Video Super-Resolution With Temporal Group Attention
 - Paper：[http://openaccess.thecvf.com/content_CVPR_2020/papers/Isobe_Video_Super-Resolution_With_Temporal_Group_Attention_CVPR_2020_paper.pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Isobe_Video_Super-Resolution_With_Temporal_Group_Attention_CVPR_2020_paper.pdf)
 ### Space-Time-Aware Multi-Resolution Video Enhancement
