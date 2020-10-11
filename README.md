@@ -166,9 +166,9 @@ A Collection of Papers and Codes for CVPR2020 Low Level Vision or Image Reconstr
 # 4.去模糊（Deblurring）
 ## 视频去模糊
 ### Cascaded Deep Video Deblurring Using Temporal Sharpness Prior
-- 主页：[https://csbhr.github.io/projects/cdvd-tsp/index.html](https://csbhr.github.io/projects/cdvd-tsp/index.html)
 - Paper：[https://arxiv.org/abs/2004.02501](https://arxiv.org/abs/2004.02501)
 - Code：[https://github.com/csbhr/CDVD-TSP](https://github.com/csbhr/CDVD-TSP)
+- Homepage：[https://csbhr.github.io/projects/cdvd-tsp/index.html](https://csbhr.github.io/projects/cdvd-tsp/index.html)
 ### Learning Event-Based Motion Deblurring
 - Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Learning_Event-Based_Motion_Deblurring_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Learning_Event-Based_Motion_Deblurring_CVPR_2020_paper.pdf)
 ### Variational-EM-Based Deep Learning for Noise-Blind Image Deblurring
@@ -196,12 +196,6 @@ A Collection of Papers and Codes for CVPR2020 Low Level Vision or Image Reconstr
 ### Learning Invariant Representation for Unsupervised Image Restoration
 - Paper：[https://arxiv.org/pdf/2003.12769.pdf](https://arxiv.org/pdf/2003.12769.pdf)
 - Code：[https://github.com/Wenchao-Du/LIR-for-Unsupervised-IR](https://github.com/Wenchao-Du/LIR-for-Unsupervised-IR)
-### Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting
-- Paper：[https://arxiv.org/abs/2005.09704](https://arxiv.org/abs/2005.09704)
-- 备注：超高分辨率图像修复、注意力机制
-### UCTGAN: Diverse Image Inpainting based on Unsupervised Cross-Space
-- Paper：[http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.pdf)
-- 备注：图像修复、注意力机制
 ### Attentive Normalization for Conditional Image Generation
 - Paper：[https://arxiv.org/abs/2004.03828](https://arxiv.org/abs/2004.03828)
 - Code：[https://github.com/shepnerd/AttenNorm](https://github.com/shepnerd/AttenNorm)
@@ -209,29 +203,70 @@ A Collection of Papers and Codes for CVPR2020 Low Level Vision or Image Reconstr
 ### Bringing Old Photos Back to Life
 - Paper：[https://arxiv.org/abs/2004.09484](https://arxiv.org/abs/2004.09484)
 - Code：[https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
-- 主页：[http://raywzy.com/Old_Photo/](http://raywzy.com/Old_Photo/)
+- Homepage：[http://raywzy.com/Old_Photo/](http://raywzy.com/Old_Photo/)
+### CycleISP: Real Image Restoration via Improved Data Synthesis
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Zamir_CycleISP_Real_Image_Restoration_via_Improved_Data_Synthesis_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zamir_CycleISP_Real_Image_Restoration_via_Improved_Data_Synthesis_CVPR_2020_paper.pdf)
+- Code：[https://github.com/swz30/CycleISP](https://github.com/swz30/CycleISP)
+### Enhanced Blind Face Restoration With Multi-Exemplar Images and Adaptive Spatial Feature Fusion
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhanced_Blind_Face_Restoration_With_Multi-Exemplar_Images_and_Adaptive_Spatial_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhanced_Blind_Face_Restoration_With_Multi-Exemplar_Images_and_Adaptive_Spatial_CVPR_2020_paper.pdf)
+- Code：[https://github.com/csxmli2016/ASFFNet](https://github.com/csxmli2016/ASFFNet)
+### Disparity-Aware Domain Adaptation in Stereo Image Restoration
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Disparity-Aware_Domain_Adaptation_in_Stereo_Image_Restoration_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Disparity-Aware_Domain_Adaptation_in_Stereo_Image_Restoration_CVPR_2020_paper.pdf)
 
 <a name="7.图像增强"></a>
 # 7.图像增强（Image Enhancement）
 ### DeepLPF: Deep Local Parametric Filters for Image Enhancement
 - Paper：[https://arxiv.org/abs/2003.13985](https://arxiv.org/abs/2003.13985)
 - Code：[https://github.com/sjmoran/deep_local_parametric_filters](https://github.com/sjmoran/deep_local_parametric_filters)
+### Learning for Video Compression With Hierarchical Quality and Recurrent Enhancement
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_for_Video_Compression_With_Hierarchical_Quality_and_Recurrent_Enhancement_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_for_Video_Compression_With_Hierarchical_Quality_and_Recurrent_Enhancement_CVPR_2020_paper.pdf)
+- Code：[https://github.com/RenYang-home/HLVC](https://github.com/RenYang-home/HLVC)
+### Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Zero-Reference_Deep_Curve_Estimation_for_Low-Light_Image_Enhancement_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Zero-Reference_Deep_Curve_Estimation_for_Low-Light_Image_Enhancement_CVPR_2020_paper.pdf)
+- Code：[https://github.com/Li-Chongyi/Zero-DCE](https://github.com/Li-Chongyi/Zero-DCE)
+### From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_From_Fidelity_to_Perceptual_Quality_A_Semi-Supervised_Approach_for_Low-Light_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_From_Fidelity_to_Perceptual_Quality_A_Semi-Supervised_Approach_for_Low-Light_CVPR_2020_paper.pdf)
+- Code：[https://github.com/flyywh/CVPR-2020-Semi-Low-Light](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)
+### Space-Time-Aware Multi-Resolution Video Enhancement
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Haris_Space-Time-Aware_Multi-Resolution_Video_Enhancement_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Haris_Space-Time-Aware_Multi-Resolution_Video_Enhancement_CVPR_2020_paper.pdf)
+- Code：[https://github.com/alterzero/STARnet](https://github.com/alterzero/STARnet)
+### Learning to Restore Low-Light Images via Decomposition-and-Enhancement
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Learning_to_Restore_Low-Light_Images_via_Decomposition-and-Enhancement_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Learning_to_Restore_Low-Light_Images_via_Decomposition-and-Enhancement_CVPR_2020_paper.pdf)
 
 <a name="8.图像去摩尔纹"></a>
 # 8.图像去摩尔纹（Image Demoireing）
+### Image Demoireing with Learnable Bandpass Filters
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Image_Demoireing_with_Learnable_Bandpass_Filters_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Image_Demoireing_with_Learnable_Bandpass_Filters_CVPR_2020_paper.pdf)
+- Code：[https://github.com/zhenngbolun/Learnbale_Bandpass_Filter](https://github.com/zhenngbolun/Learnbale_Bandpass_Filter)
 
 <a name="9.图像修复"></a>
 # 9.图像修复（Inpainting）
 ### Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting
+- Paper：[https://arxiv.org/abs/2005.09704](https://arxiv.org/abs/2005.09704)
+- Code：[https://github.com/phillips96/CRA-Inpainting](https://github.com/phillips96/CRA-Inpainting)
+### UCTGAN: Diverse Image Inpainting based on Unsupervised Cross-Space
+- Paper：[http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.pdf)
+### Recurrent Feature Reasoning for Image Inpainting
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Recurrent_Feature_Reasoning_for_Image_Inpainting_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Recurrent_Feature_Reasoning_for_Image_Inpainting_CVPR_2020_paper.pdf)
+- Code：[https://github.com/jingyuanli001/RFR-Inpainting](https://github.com/jingyuanli001/RFR-Inpainting)
+### Prior Guided GAN Based Semantic Inpainting
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Lahiri_Prior_Guided_GAN_Based_Semantic_Inpainting_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lahiri_Prior_Guided_GAN_Based_Semantic_Inpainting_CVPR_2020_paper.pdf)
+### 3D Photography Using Context-Aware Layered Depth Inpainting
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/papers/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.pdf)
+- Code：[https://github.com/vt-vl-lab/3d-photo-inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting)
+
 <a name="10.图像质量评价"></a>
 # 10.图像质量评价（Image Quality Assessment）
 
 <a name="11.其他"></a>
-# 11.其他
+# 11.其他多任务
 ### Image Processing Using Multi-Code GAN Prior
 - Paper：[https://openaccess.thecvf.com/content_CVPR_2020/html/Gu_Image_Processing_Using_Multi-Code_GAN_Prior_CVPR_2020_paper.html](https://openaccess.thecvf.com/content_CVPR_2020/html/Gu_Image_Processing_Using_Multi-Code_GAN_Prior_CVPR_2020_paper.html)
 - Code：[https://github.com/genforce/mganprior](https://github.com/genforce/mganprior)
-
+### EventSR: From Asynchronous Events to Image Reconstruction, Restoration, and Super-Resolution via End-to-End Adversarial Learning
+- Paper：[http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_EventSR_From_Asynchronous_Events_to_Image_Reconstruction_Restoration_and_Super-Resolution_CVPR_2020_paper.pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_EventSR_From_Asynchronous_Events_to_Image_Reconstruction_Restoration_and_Super-Resolution_CVPR_2020_paper.pdf)
+- Video ：[https://www.youtube.com/watch?v=OShS_MwHecs](https://www.youtube.com/watch?v=OShS_MwHecs)
+- Dataset： [https://github.com/wl082013/ESIM_dataset](https://github.com/wl082013/ESIM_dataset)
 
 <font color=red size=5>待续更新~</font>
 <div class="output_wrapper" id="output_wrapper_id" style="font-size: 16px; color: rgb(62, 62, 62); line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif;"><h1 id="h" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.5em 0px; font-weight: bold; font-size: 1.6em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">参考</span></h1>
