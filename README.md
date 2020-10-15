@@ -199,7 +199,6 @@ A Collection of Papers and Codes for CVPR2020 Low Level Vision or Image Reconstr
 ### Attentive Normalization for Conditional Image Generation
 - Paper：[https://arxiv.org/abs/2004.03828](https://arxiv.org/abs/2004.03828)
 - Code：[https://github.com/shepnerd/AttenNorm](https://github.com/shepnerd/AttenNorm)
-- 备注：注意力机制、类条件图像生成、图像修复
 ### Bringing Old Photos Back to Life
 - Paper：[https://arxiv.org/abs/2004.09484](https://arxiv.org/abs/2004.09484)
 - Code：[https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
