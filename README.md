@@ -191,6 +191,9 @@ A Collection of Papers and Codes for CVPR2020 Low Level Vision or Image Reconstr
 ### CycleISP: Real Image Restoration via Improved Data Synthesis
 - Paper：[https://arxiv.org/abs/2003.07761](https://arxiv.org/abs/2003.07761)
 - Code：[https://github.com/swz30/CycleISP](https://github.com/swz30/CycleISP)
+### Self2Self With Dropout: Learning Self-Supervised Denoising From Single Image
+- Paper：[https://openaccess.thecvf.com/content_CVPR_2020/html/Quan_Self2Self_With_Dropout_Learning_Self-Supervised_Denoising_From_Single_Image_CVPR_2020_paper.html](https://openaccess.thecvf.com/content_CVPR_2020/html/Quan_Self2Self_With_Dropout_Learning_Self-Supervised_Denoising_From_Single_Image_CVPR_2020_paper.html)
+- Code：[https://github.com/scut-mingqinchen/self2self](https://github.com/scut-mingqinchen/self2self)
 
 <a name="6.图像恢复"></a>
 # 6.图像恢复（Image Restoration）
