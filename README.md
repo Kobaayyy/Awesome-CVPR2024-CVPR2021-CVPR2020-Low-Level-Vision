@@ -23,8 +23,8 @@ A Collection of Papers and Codes for CVPR2024/CVPR2021/CVPR2020 Low Level Vision
 
 
 # Related Collections(相关整理)
-- [Awesome-ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2020-Low-Level-Vision)
+- [Awesome-ECCV2024/ECCV2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ECCV2024-ECCV2020-Low-Level-Vision)
 - [Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
 - [Awesome-Low-Level-Vision-Research-Groups](https://github.com/Kobaayyy/Awesome-Low-Level-Vision-Research-Groups)
 - [Awesome-AIGC-Research-Groups](https://github.com/Kobaayyy/Awesome-AIGC-Research-Groups)
-- [Awesome-CVPR2024-AIGC](https://github.com/Kobaayyy/Awesome-CVPR2024-AIGC)
+- [Awesome-CVPR2024-ECCV2024-AIGC](https://github.com/Kobaayyy/Awesome-CVPR2024-ECCV2024-AIGC)
